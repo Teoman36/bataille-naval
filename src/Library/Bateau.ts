@@ -6,6 +6,8 @@
 class Bateau {
     private _pointDeVie: number;
 
+    //test
+    
     private _longeurBateau: number =0;
     public getLongeurBateau(): number {
         return this._longeurBateau;
